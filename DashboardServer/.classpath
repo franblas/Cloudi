@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Paco/Desktop/Github/CloudProject/jar sup/jcommon-1.0.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paco/Desktop/Github/CloudProject/jar sup/jfreechart-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paco/Desktop/Github/CloudProject/jar sup/jfreechart-1.0.17-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paco/Desktop/Github/CloudProject/jar sup/jfreechart-1.0.17-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paco/Desktop/Github/CloudProject/jar sup/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
